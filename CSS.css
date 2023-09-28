@@ -1,0 +1,20 @@
+/* CSS gives style to raw HTML.
+CSS Stands for Cascading Style Sheet.
+CSS is used to give style to our web pages.
+CSS is used to make website responsive.
+HTML is used to structure a website.
+CSS takes responsibility of design. */
+
+
+/* Three ways to add CSS to the markup
+
+1) Inline CSS: CSS is added to the elements directly using style attribute.
+2) Internal CSS: CSS is kept inside the head tag in <style> tags.
+3) External CSS: CSS is kept separately inside a .css Style sheet. */
+
+
+/* Ques) What is a CSS Selector?
+
+-> CSS selectors are used to find the element whose property will be set.
+-> Selectors are used to target the html elements.
+-> Selectors makes it easy for us to easily target single/multiple HTML elements in the markup.  */
